@@ -237,6 +237,8 @@ The exported files are saved in the project root directory with naming conventio
 
 ## Usage Guidelines
 
+See the [MDAnalysis Style Guide](https://github.com/MDAnalysis/branding/blob/main/STYLE_GUIDE.md) in addition to information presented here.
+
 ### Brand Application
 - Maintain minimum clear space around logos
 - Use provided formats without modification
@@ -255,7 +257,14 @@ This identity system was developed in collaboration with **Jenna Swarthout Godda
 
 ## Support
 
-For questions regarding logo usage, brand guidelines, or technical specifications, please refer to the [MDAnalysis project documentation](https://github.com/MDAnalysis/mdanalysis) or contact the design team.
+For questions regarding logo usage, brand guidelines, or technical specifications, please refer to the [MDAnalysis Branding resources](https://github.com/MDAnalysis/branding/) or contact the design team via the [Community contact channels](https://www.mdanalysis.org/pages/community/#ask-questions--get-help). 
+
+## License
+
+All rights reserved. Copyright © 2025 NumFOCUS, INC.
+
+See the file [LICENSE](./LICENSE) for details.
+
 
 ---
 
