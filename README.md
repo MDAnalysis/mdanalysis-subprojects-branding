@@ -251,6 +251,14 @@ See the [MDAnalysis Style Guide](https://github.com/MDAnalysis/branding/blob/mai
 - **JPG**: Web display, social media, optimized file sizes
 - **PDF**: Print materials, high-resolution output
 
+### License information
+
+When you adopt the logo files for a subproject, do the following:
+1. copy the logo files from the subproject directory to your documentation logo directory and replace the old logos
+2. copy the `LICENSE` file that accompanies the logo files and place it next to your logo files
+3. add *Andrés Montoya (@conradolandia)* as an author according to the project style, (e.g., add to the `AUTHORS` file "Andrés Montoya <conradolandia>(logo)")
+4. carefully review any licensing information and if necessary, clarify that a different license applies to the logo
+
 ## Collaboration
 
 This identity system was developed in collaboration with **Jenna Swarthout Goddard (JSG)**, ensuring alignment with broader MDAnalysis brand strategy and visual standards.
