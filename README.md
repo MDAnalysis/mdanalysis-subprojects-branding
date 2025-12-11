@@ -239,6 +239,10 @@ The exported files are saved in the project root directory with naming conventio
 
 See the [MDAnalysis Style Guide](https://github.com/MDAnalysis/branding/blob/main/STYLE_GUIDE.md) in addition to information presented here.
 
+### MDAnalysis policy
+Based on discussion at the Business meeting on 2025-11-24, all subprojects are encouraged to replace their current logo with their new one
+from this repository. Final decision on adoption rests with the subproject's maintenance team.
+
 ### Brand Application
 - Maintain minimum clear space around logos
 - Use provided formats without modification
