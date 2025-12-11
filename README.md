@@ -269,7 +269,10 @@ For questions regarding logo usage, brand guidelines, or technical specification
 
 ## License
 
-All rights reserved. Copyright © 2025 NumFOCUS, INC.
+All rights reserved. Copyright © 2025 NumFOCUS, Inc.
+
+MDAnalysis™️ and the MDAnalysis logo are the sole property of NumFOCUS, Inc. 
+(registration pending).
 
 See the file [LICENSE](./LICENSE) for details.
 
