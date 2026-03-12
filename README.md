@@ -76,10 +76,10 @@ The following table provides an overview of all available project logos with dir
 <td><a href="https://github.com/MDAnalysis/cookiecutter-mdakit">GitHub</a></td>
 </tr>
 <tr>
-<td><strong>Helenal</strong></td>
-<td style="background-color: white; text-align: center; padding: 8px;"><img src="project_logos/Helenal/MDAnalysis__Helenal.jpg" alt="Helenal Logo" width="200"></td>
-<td><a href="project_logos/Helenal/MDAnalysis__Helenal.svg">SVG</a> • <a href="project_logos/Helenal/MDAnalysis__Helenal.png">PNG</a> • <a href="project_logos/Helenal/MDAnalysis__Helenal.jpg">JPG</a> • <a href="project_logos/Helenal/MDAnalysis__Helenal.pdf">PDF</a></td>
-<td><a href="https://github.com/MDAnalysis/helenal">GitHub</a></td>
+<td><strong>Helanal</strong></td>
+<td style="background-color: white; text-align: center; padding: 8px;"><img src="project_logos/Helanal/MDAnalysis__Helanal.jpg" alt="Helanal Logo" width="200"></td>
+<td><a href="project_logos/Helanal/MDAnalysis__Helanal.svg">SVG</a> • <a href="project_logos/Helanal/MDAnalysis__Helanal.png">PNG</a> • <a href="project_logos/Helanal/MDAnalysis__Helanal.jpg">JPG</a> • <a href="project_logos/Helanal/MDAnalysis__Helanal.pdf">PDF</a></td>
+<td><a href="https://github.com/MDAnalysis/Helanal">GitHub</a></td>
 </tr>
 <tr>
 <td><strong>MDABenchmarks</strong></td>
