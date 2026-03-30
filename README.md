@@ -237,6 +237,12 @@ The exported files are saved in the project root directory with naming conventio
 
 ## Usage Guidelines
 
+See the [MDAnalysis Style Guide](https://github.com/MDAnalysis/branding/blob/main/STYLE_GUIDE.md) in addition to information presented here.
+
+### MDAnalysis policy
+Based on discussion at the Business meeting on 2025-11-24, all subprojects are encouraged to replace their current logo with their new one
+from this repository. Final decision on adoption rests with the subproject's maintenance team.
+
 ### Brand Application
 - Maintain minimum clear space around logos
 - Use provided formats without modification
@@ -249,13 +255,31 @@ The exported files are saved in the project root directory with naming conventio
 - **JPG**: Web display, social media, optimized file sizes
 - **PDF**: Print materials, high-resolution output
 
+### License information
+
+When you adopt the logo files for a subproject, do the following:
+1. copy the logo files from the subproject directory to your documentation logo directory and replace the old logos
+2. copy the `LICENSE` file that accompanies the logo files and place it next to your logo files
+3. add *Andrés Montoya (@conradolandia)* as an author according to the project style, (e.g., add to the `AUTHORS` file "Andrés Montoya <conradolandia>(logo)")
+4. carefully review any licensing information and if necessary, clarify that a different license applies to the logo
+
 ## Collaboration
 
 This identity system was developed in collaboration with **Jenna Swarthout Goddard (JSG)**, ensuring alignment with broader MDAnalysis brand strategy and visual standards.
 
 ## Support
 
-For questions regarding logo usage, brand guidelines, or technical specifications, please refer to the [MDAnalysis project documentation](https://github.com/MDAnalysis/mdanalysis) or contact the design team.
+For questions regarding logo usage, brand guidelines, or technical specifications, please refer to the [MDAnalysis Branding resources](https://github.com/MDAnalysis/branding/) or contact the design team via the [Community contact channels](https://www.mdanalysis.org/pages/community/#ask-questions--get-help). 
+
+## License
+
+All rights reserved. Copyright © 2025 NumFOCUS, Inc.
+
+MDAnalysis™️ and the MDAnalysis logo are the sole property of NumFOCUS, Inc. 
+(registration pending).
+
+See the file [LICENSE](./LICENSE) for details.
+
 
 ---
 
